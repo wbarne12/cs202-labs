@@ -5,3 +5,4 @@ All of the information for the labs can be found on https://web.eecs.utk.edu/~jp
 
 Gradescripts can be run with `/home/plank/cs202/Labs/Lab#/gradeall` **Only works with Hydra machines** 
 
+Due to academic honesty, I did not upload my labs during the semester, and rather uploaded all the labs once I was done with the class. 
