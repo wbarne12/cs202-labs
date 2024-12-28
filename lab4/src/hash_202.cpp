@@ -1,6 +1,4 @@
-/* Stanley Barnes
- * wbarne12
- * 000-67-7926
+/* 
  * This program defines the methods in the hash_202.hpp file.
  * All of the methods have more detail in the hash_202.hpp.
  * 
