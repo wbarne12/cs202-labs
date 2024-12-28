@@ -1,7 +1,4 @@
-/* Stanley Barnes
- * wbarne12
- * 000-67-7926
- * 
+/* 
  * More detail in lab write up and notes:
  * Write-up:
  *   https://web.eecs.utk.edu/~jplank/plank/classes/cs202/Labs/Lab8/
