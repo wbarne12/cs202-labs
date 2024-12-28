@@ -1,6 +1,4 @@
-/* Stanley Barnes
- * wbarne12
- * 000-67-7926
+/* 
  * This program takes everything from the past 4 labs to make an evil program.
  * More detail about methods in bitmatrix.hpp and 
  *  https://web.eecs.utk.edu/~jplank/plank/classes/cs202/Labs/Lab5/.
