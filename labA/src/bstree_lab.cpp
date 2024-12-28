@@ -1,7 +1,4 @@
-/* Stanley Barnes
- * wbarne12
- * 000-65-7926
- *  
+/* 
  * Lab Write Up:
  *   https://web.eecs.utk.edu/~jplank/plank/classes/cs202/Labs/LabA/*/
 #include <vector>

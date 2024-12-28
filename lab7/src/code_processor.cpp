@@ -1,7 +1,4 @@
-/* Stanley Barnes
- * wbarne12
- * 000-67-7926
- * 
+/* 
  * The code_processor is a mock of processing prizes for users.
  * More information on methods in include/code_processor.hpp.
  * 

@@ -1,6 +1,4 @@
-/* William Stanley Barnes
- * wbarne12
- * 000-65-7926
+/* 
  * This program makes a gray card.
  */
 #include <iostream>

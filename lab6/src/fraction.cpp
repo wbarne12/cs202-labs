@@ -1,6 +1,4 @@
-/* Stanley Barnes
- * wbarne12
- * 000-67-7926
+/*
  * The Fraction class manages a fraction, where the numerator and 
  * the denominator are both products of positive integers.  
  * 

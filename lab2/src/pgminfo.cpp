@@ -1,6 +1,4 @@
-/* William Stanley Barnes
- * wbarne12
- * 000-65-7926
+/* 
  * This program verifies that a pgm file is valid and outputs info.
  */
 

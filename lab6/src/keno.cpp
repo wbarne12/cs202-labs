@@ -1,6 +1,4 @@
-/* Stanley Barnes
- * wbarne12
- * 000-67-7926
+/* 
  * Uses the fraction class to find the probabilty of gambling. 
  */
 #include <vector>

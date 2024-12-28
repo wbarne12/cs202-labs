@@ -1,6 +1,4 @@
-/* William Stanley Barnes
- * wbarne12
- * 000-65-7926
+/* 
  * This program rotates the image around the y-axis.
  */
 
