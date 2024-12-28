@@ -1,8 +1,6 @@
-/* Stanley Barnes
- * wbarne12
- * 000-65-7926
+/*
  * This program defines the methods in the Pgm class.
-*/
+ */
 
 #include "pgm.hpp"
 #include <cstdio>
