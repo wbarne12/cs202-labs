@@ -1,9 +1,6 @@
-/* William Stanley Barnes
- * wbarne12
- * 000-65-7926
+/* 
  * This program makes a checkerboard of size (R*C)
  */
-
 #include <iostream>
 #include <string>
 using namespace std;
