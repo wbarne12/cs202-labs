@@ -1,4 +1,4 @@
-/* 
+/*
  * This program inverts the pixels on a gray card. 
  */
 

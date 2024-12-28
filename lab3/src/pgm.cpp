@@ -1,6 +1,6 @@
-/* 
+/*
  * This program defines the methods in the Pgm class.
-*/
+ */
 
 #include "pgm.hpp"
 #include <cstdio>

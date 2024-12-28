@@ -1,7 +1,6 @@
 /*
  * This program makes a checkerboard of size (R*C)
  */
-
 #include <iostream>
 #include <string>
 using namespace std;

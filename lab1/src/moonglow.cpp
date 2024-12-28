@@ -1,4 +1,4 @@
-/* 
+/*
  * This program makes the moon glow.
  */
 

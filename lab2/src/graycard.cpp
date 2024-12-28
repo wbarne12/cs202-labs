@@ -1,4 +1,4 @@
-/* 
+/*
  * This program makes a gray card.
  */
 #include <iostream>
